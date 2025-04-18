@@ -12,11 +12,7 @@ and at [Xiaohongshu](https://www.xiaohongshu.com/) leading the algorithm enginee
 ![Static Badge](https://img.shields.io/badge/Email-z--wang22@mails.tsinghua.edu.cn-blue)
 ![Static Badge](https://img.shields.io/badge/Github-learningCatHD-green)
 
-</div>
-<div style="flex: 1; text-align: center;">
-<img src="assets/wangzheng.jpg" alt="Zheng Wang" style="width: 80%; border-radius: 50%;">
-</div>
-</div>
+
 
 ## Latest News
 
