@@ -21,10 +21,5 @@
 - Core Network Engineer, [H3C Group](https://www.h3c.com/cn/) (2016-2017)  
   Developed VxLAN protocols for enterprise routers  
 
-### Achievements  
-- 🏆 Champion, Guoqiang Cup Entrepreneurship Competition (Tsinghua, 2023)  
-- 🥉 Global Top 3, Tsinghua Tri-Creation Competition (2023)  
-- 🚀 Launched open-source Agent platform Cooragent (2025)  
-
 [![Email](https://img.shields.io/badge/Contact%20Me-z--wang22@mails.tsinghua.edu.cn-blue)](mailto:z-wang22@mails.tsinghua.edu.cn) [![GitHub](https://img.shields.io/badge/My%20Work-learningCatHD-green)](https://github.com/learningCatHD) 
 
