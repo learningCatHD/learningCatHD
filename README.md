@@ -2,12 +2,13 @@
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 3;">
-I'm pursuing a Master's in Engineering Management in the Department of Automation at Tsinghua University, advised by [Professor Gao Huang](https://www.gaohuang.net/). My research interests include large-scale parallel computing, computational advertising, large language models, and computer vision.
+I'm pursuing a Master's degree of Engineering Management in the Department of Automation at Tsinghua University, advised by ![Professor Gao Huang](https://www.gaohuang.net/). My research interests include LLM Based Agent, LargeScale Parallel Computing, Computational Advertising.
 
 I received my first Master's degree in Information and Communication Engineering from China University of Petroleum (Beijing) in 2026.
-Then I have worked at [H3C Group](https://www.h3c.com/cn/) developing core router Vxlan protocols,
-After that, I was at [iQIYI](https://www.iqiyi.com/) managing the iQIYI virtual machine cloud platform,
-2022 I went to [Xiaohongshu](https://www.xiaohongshu.com/) , leading the algorithm engineering team.
+Then I have worked at ![H3C Group](https://www.h3c.com/cn/) developing core router Vxlan protocols,
+After that, I was at ![iQIYI](https://www.iqiyi.com/) managing the iQIYI virtual machine cloud platform,
+2022 I went to ![Xiaohongshu](https://www.xiaohongshu.com/) , leading the algorithm engineering team.
+I am currently in charge of a tech company ![Cooragent](https://github.com/LeapLabTHU/cooragent), we focuses on building next-generation infrastructure based on LLM-Based Agent.
 
 ![Static Badge](https://img.shields.io/badge/Email-z--wang22@mails.tsinghua.edu.cn-blue)
 ![Static Badge](https://img.shields.io/badge/Github-learningCatHD-green)
