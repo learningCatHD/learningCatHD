@@ -8,7 +8,7 @@
   Research: LLM-Based Agents, Large-Scale Parallel Computing, Computational Advertising  
 
 - **China University of Petroleum (Beijing)**  
-  M.Eng. in Information and Communication Engineering (2026)  
+  M.Eng. in Information and Communication Engineering (2016)  
 
 ### Professional Experience  
 **Technology Leadership**  
