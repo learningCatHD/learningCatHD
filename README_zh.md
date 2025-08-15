@@ -2,20 +2,22 @@
 
 ## 教育背景
 - **清华大学** 工程管理硕士在读 (2022-至今)  
-  导师：[黄高教授](https://www.gaohuang.net/)  
+  导师：[宋士吉教授](https://www.gaohuang.net/)  
   研究方向：基于大语言模型的智能体、大规模并行计算、计算广告
 
-- **中国石油大学（北京）** 信息与通信工程硕士 (2016)  
+- **中国石油大学（北京）** 信息与通信工程硕士 (2016)   
+  导师：[刘德军教授](https://www.cup.edu.cn/cupai/szdw/jsml/53ab2c48d43644208c6559327314ef33.htm)   
+  研究方向：机器学习，通信系统，操作系统，FPGA
 
 ## 工作经历
-- **创始人兼CEO**，[Cooragent](https://github.com/LeapLabTHU/cooragent) (2025-至今)  
+- **CEO/CTO**，[Cooragent](https://github.com/LeapLabTHU/cooragent) (2025-至今)  
   构建新一代自我演进式的智能体演进框架
 
 - **CEO/CTO**，零隙智能 (2024-2025)  
   实现国内首款基于LLM的智能腻子涂敷机器人落地  
   构建基于主动思考的在线教育平台Plato
 
-- **工程技术团队负责人**，领视科技 (2023-2024)  
+- **CTO/工程技术团队负责人**，领视科技 (2023-2024)  
   实现全球首款自主超时机器人
 
 - **算法工程负责人**，[小红书](https://www.xiaohongshu.com/) (2021-2022)  
