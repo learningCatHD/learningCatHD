@@ -41,7 +41,7 @@ In parallel, I founded **SeamLess AI**, where the same questions are stress-test
 
 ## Projects
 
-**[Cooragent](https://github.com/LeapLabTHU/cooragent)** — an open-source multi-agent collaboration framework from LEAP Lab. Designed and shipped end-to-end; covered as a SOTA framework by *Synced (机器之心)* and roughly ten other outlets.
+**Cooragent**— an open-source multi-agent collaboration framework from LEAP Lab. Designed and shipped end-to-end; covered as a SOTA framework by *Synced (机器之心)* and roughly ten other outlets.
 
 **Telos** — an *agent-native* inference engine targeting Ascend hardware. Combines fleet parallelism, a stable-prefix protocol (PIN &rarr; FOLD &rarr; DROP), and token-efficient tool interfaces; integrated with MindIE / CANN.
 
