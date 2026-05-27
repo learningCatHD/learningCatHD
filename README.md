@@ -3,7 +3,7 @@
 <p align="center">
   M.S. Candidate, Department of Automation, Tsinghua University<br/>
   <a href="https://www.leaplab.ai">LEAP Lab</a> &middot; advised by Prof. <a href="https://www.gaohuang.net">Gao Huang</a><br/>
-  <sub>he/him &nbsp;&middot;&nbsp; Beijing, China &nbsp;&middot;&nbsp; <a href="mailto:18910156608@163.com">18910156608@163.com</a></sub>
+  <sub>he/him &nbsp;&middot;&nbsp; Beijing, China &nbsp;&middot;&nbsp; <a href="mailto:george.tsinghua@gmail.com">george.tsinghua@gmail.com</a></sub>
 </p>
 
 
