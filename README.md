@@ -29,15 +29,10 @@ In parallel, I founded **SeamLess AI**, where the same questions are stress-test
 
 ## Selected Publications
 
-- **CostRAG**: *Free Signals Are Enough — Pareto-Improving Long-Form RAG via Score-Gated Termination and Access-Driven Materialization.* &nbsp; **Under review, CIKM 2026.** *First author.*
+- **CostRAG**: *Free Signals Are Enough — Pareto-Improving Long-Form RAG via Score-Gated Termination and Access-Driven Materialization.*. *First author.*
 - **HEAT**: *Hierarchical Thinking with Long-Term Experience Accumulation and Test-Time Evolvement in Real-World Robotic Environments.* *First author.*
 - Z. Wang et al. *A Frequency-Domain Scheme for High-Speed Telemetry Downhole Wireline Communication.* **IMCCC 2015** (EI). *First author.*
 - *Vertical Magnetic Field and Its Analytic-Signal Applicability in Oil-Field Underground Pipeline Detection.* **Journal of Geophysics and Engineering**, 2015 (SCI).
-
-## Patents (sole inventor)
-
-- *Anomaly Monitoring Method, Device, and Electronic Equipment* — **CN111309539A**
-- *Resource Scheduling Method, Device, Electronic Equipment, and Storage Medium* — **CN112667398A**
 
 ## Projects
 
